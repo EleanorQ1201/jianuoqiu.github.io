@@ -9,8 +9,8 @@ author_profile: true
 
 
 <div class="image-text-wrapper">
-    <div class="image-container">
-        <img src="/images/video2sim2real.png" alt="Video2Sim2Real on a Kinova Gen3 arm with a LEAP Hand" style="height:100%;object-fit:contain;">
+    <div class="video-container">
+        <iframe src="https://www.youtube.com/embed/ig2a1rXIr0I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
     </div>
     <div class="image-description">
         <h3>Video2Sim2Real: Full-Stack Autonomous Dexterous Skill Acquisition from a Single Human Video</h3>
@@ -49,7 +49,7 @@ author_profile: true
 <div class="image-text-wrapper">
     <div class="video-container">
         <video controls preload="metadata" poster="/images/multimodel.jpg" style="width:100%;height:100%;object-fit:contain;background:#000;display:block;">
-            <source src="/videos/multimodal-underwater.mp4" type="video/mp4">
+            <source src="/videos/multimodal-underwater-v2.mp4" type="video/mp4">
         </video>
     </div>
     <div class="image-description">

@@ -80,7 +80,7 @@ Publications
 <div class="video-text-wrapper">
     <div class="video-container">
         <video controls preload="metadata" poster="/images/multimodel.jpg" style="width:100%;height:100%;object-fit:contain;background:#000;">
-            <source src="/videos/multimodal-underwater.mp4" type="video/mp4">
+            <source src="/videos/multimodal-underwater-v2.mp4" type="video/mp4">
         </video>
     </div>
     <div class="video-description">
