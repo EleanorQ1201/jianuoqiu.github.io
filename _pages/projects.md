@@ -48,10 +48,13 @@ author_profile: true
 
 <div class="image-text-wrapper">
     <div class="image-container">
-        <img src="/images/multimodel.jpg" alt="Underwater superlimb intention recognition">
+        <video controls preload="metadata" poster="/images/multimodel.jpg" style="width:100%;height:100%;object-fit:contain;background:#000;display:block;">
+            <source src="/videos/multimodal-underwater.mp4" type="video/mp4">
+        </video>
     </div>
     <div class="image-description">
         <h3>Multimodal Intention Recognition for Underwater Superlimbs</h3>
+        <a href="https://bionicdl.ancorasir.com/?p=1718" target="_blank">[website]</a>
         <a href="https://ieeexplore.ieee.org/document/10937710" target="_blank">[paper]</a>
         <p class="post-description">SUSTech, Aug 2023 - Sep 2024 · Published in IEEE T-ASE 2025.</p>
         <p class="post-description">Underwater wearable-interaction experiments, multimodal datasets, and a MATLAB GUI for forward/inverse thruster force analysis.</p>

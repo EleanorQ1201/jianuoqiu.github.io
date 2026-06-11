@@ -82,11 +82,13 @@ Publications
 
 <div class="video-text-wrapper">
     <div class="video-container">
-        <!-- TODO: replace with the official teaser video once available -->
-        <img src="/images/multimodel.jpg" alt="Underwater Superlimbs" style="width:100%;height:100%;object-fit:cover;">
+        <video controls preload="metadata" poster="/images/multimodel.jpg" style="width:100%;height:100%;object-fit:contain;background:#000;">
+            <source src="/videos/multimodal-underwater.mp4" type="video/mp4">
+        </video>
     </div>
     <div class="video-description">
         <h3>Multimodal Intention Recognition Combining Head Motion and Throat Vibration for Underwater Superlimbs</h3>
+        <a href="https://bionicdl.ancorasir.com/?p=1718" target="_blank">[website]</a>
         <a href="https://ieeexplore.ieee.org/document/10937710" target="_blank">[paper]</a>
         <p>
           Rongzheng Zhang*, Wanghongjie Qiu*, <strong>Jianuo Qiu</strong>, et al. <br>
