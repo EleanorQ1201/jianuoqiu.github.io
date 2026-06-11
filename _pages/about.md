@@ -64,14 +64,7 @@ Publications
 
 <div class="video-text-wrapper">
     <div class="video-container">
-        <!-- TODO: video ig2a1rXIr0I is still PRIVATE on YouTube, so it cannot
-             be embedded yet. Once it is set to Public or Unlisted, delete the
-             img below and uncomment this iframe (note: embeds must use the
-             youtube.com/embed/ URL form, not youtu.be):
-
         <iframe src="https://www.youtube.com/embed/ig2a1rXIr0I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-        -->
-        <img src="/images/video2sim2real.png" alt="Video2Sim2Real" style="width:100%;height:100%;object-fit:contain;">
     </div>
     <div class="video-description">
         <h3>Video2Sim2Real: Full-Stack Autonomous Dexterous Skill Acquisition from a Single Human Video</h3>

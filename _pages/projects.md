@@ -34,7 +34,7 @@ author_profile: true
 </div>
 
 <div class="image-text-wrapper">
-    <div class="image-container">
+    <div class="video-container">
         <iframe src="https://www.youtube.com/embed/Eo61SRFhBaw?si=xcGOvXG11zUNG5jl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen style="width:100%;height:100%;display:block;"></iframe>
     </div>
     <div class="image-description">
@@ -47,7 +47,7 @@ author_profile: true
 </div>
 
 <div class="image-text-wrapper">
-    <div class="image-container">
+    <div class="video-container">
         <video controls preload="metadata" poster="/images/multimodel.jpg" style="width:100%;height:100%;object-fit:contain;background:#000;display:block;">
             <source src="/videos/multimodal-underwater.mp4" type="video/mp4">
         </video>
