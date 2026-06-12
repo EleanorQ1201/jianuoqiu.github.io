@@ -79,7 +79,7 @@ Publications
         <a href="https://video2sim2real.github.io/" target="_blank">[website]</a>
         <a href="https://arxiv.org/abs/2606.08828" target="_blank">[arXiv]</a>
         <p>
-          Yunhai Han*, <strong>Jianuo Qiu</strong>*, et al. <br>
+          Yunhai Han*, <strong>Jianuo Qiu</strong>*, ..., Matthew Gombolay, Zsolt Kira, Harish Ravichandar <br>
           <i>arXiv preprint, 2026</i>
         </p>
     </div>
@@ -96,7 +96,7 @@ Publications
         <a href="https://bionicdl.ancorasir.com/?p=1718" target="_blank">[website]</a>
         <a href="https://ieeexplore.ieee.org/document/10937710" target="_blank">[paper]</a>
         <p>
-          Rongzheng Zhang*, Wanghongjie Qiu*, <strong>Jianuo Qiu</strong>, et al. <br>
+          Rongzheng Zhang*, Wanghongjie Qiu*, <strong>Jianuo Qiu</strong>, Yuqin Guo, Chengxiao Dong, Tuo Zhang, Juan Yi, Chaoyang Song, Harry Asada, Fang Wan <br>
           <i>IEEE Transactions on Automation Science and Engineering (T-ASE), 2025</i>
         </p>
     </div>
@@ -110,7 +110,7 @@ Publications
         <h3>Evolutionary Morphology Towards Overconstrained Locomotion via Large-Scale, Multi-Terrain Deep Reinforcement Learning</h3>
         <a href="https://ancorasir.github.io/BennettWheelLegRL/" target="_blank">[website]</a>
         <a href="https://ieeexplore.ieee.org/document/10618090" target="_blank">[paper]</a>
-        <p>Yenan Chen*, Chuye Zhang*, Pengxi Gu*, <strong>Jianuo Qiu</strong>, et al. <br>
+        <p>Yenan Chen*, Chuye Zhang*, Pengxi Gu*, <strong>Jianuo Qiu</strong>, ..., Wei Zhang, Fang Wan, Chaoyang Song <br>
         <i>ReMAR 2024</i>, Chicago, USA. </p>
     </div>
 </div>
